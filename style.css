@@ -54,6 +54,14 @@
     letter-spacing: 2px;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
   }
+
+  p {
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    text-align: center;
+    color: #fff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  }
   
   /* Style the form labels */
   .form-label {
